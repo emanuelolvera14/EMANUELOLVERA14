@@ -1,7 +1,23 @@
-### Hi there 👋
+### Hi there!
+I'm a 24 y/o Computer Systems Engineer. Currently living in México.
 
-<!--
-**emanuelolvera14/EMANUELOLVERA14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️Technologies
+  - Angular
+  - Flutter
+  - Java
+  - Codeigniter 3 (Backend)
+  - NodeJS
+  - SQL Server
+  - MySQL
+
+🌎Languages
+  - Spanish (Native)
+  - English (B1)
+
+I’m currently learning...
+  - .NET
+  - React
+<!--**emanuelolvera14/EMANUELOLVERA14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
